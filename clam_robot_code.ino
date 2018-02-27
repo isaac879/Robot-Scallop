@@ -4,7 +4,7 @@
  * 
  * The code is developed for a 3D printed robot scallop that is afraid of the dark. The scallop is controlled by an Arduino Uno.
  * 
- * Robot Scallop STL files: Not currently publicly available.
+ * Robot Scallop STL files: https://www.thingiverse.com/thing:2808012
  * 
  * All measurements are in SI units unless otherwise specified
  * 
